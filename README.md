@@ -1,4 +1,4 @@
-# K2WebScrapper - A Python Script - Get Website Scrap Data
+# K2WebScrapper - Python Web Scrapping Tool
 A Python Script - Showing a example - How can we scrap data from Websites like Title, Description, Contents Etc.
 
 ## Features
